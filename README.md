@@ -1,2 +1,2 @@
-- 🌱 Cursando: Sistemas de Informação - Unoeste.
+- 👨‍💻 Cursando: Sistemas de Informação - Unoeste.
 
